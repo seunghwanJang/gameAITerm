@@ -1,0 +1,8 @@
+datasets/custom/images/frame0009.jpg
+datasets/custom/images/frame0019.jpg
+datasets/custom/images/frame0029.jpg
+datasets/custom/images/frame0039.jpg
+datasets/custom/images/frame0049.jpg
+datasets/custom/images/frame0059.jpg
+datasets/custom/images/frame0069.jpg
+datasets/custom/images/frame0079.jpg
